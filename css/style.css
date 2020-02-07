@@ -49,6 +49,9 @@ header{
     font-family: 'Asap', sans-serif;
     font-weight: 500;
 }
+.container .row .col-md-6 img{
+    width: 100%;
+}
 .container .row .col-md-6 .hire_me{
     display: inline-block;
     text-transform: uppercase;
